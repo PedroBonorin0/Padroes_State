@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fe4a91f-6291-4290-ae5a-918bf019c994" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ClienteSituacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ClienteSituacaoBloqueado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ClienteSituacaoCompraEsperandoPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ClienteSituacaoMensalidadeAtrasada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ClienteSituacaoNormalizado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ClienteSituacaoNormalizadoPremium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ClienteTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JCAAVicPCHz98PSt7s4FdD5rVL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="state" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="state" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ClienteTest.deveBloquearMensalidadeAtrasada">
+    <configuration name="ClienteTest.deveBloquearEsperandoPagamento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="State" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ClienteTest" />
+      <option name="METHOD_NAME" value="deveBloquearEsperandoPagamento" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest.deveBloquearMensalidadeAtrasada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="State" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ClienteTest" />
+      <option name="METHOD_NAME" value="deveBloquearMensalidadeAtrasada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest.deveNormalizarBloqueado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="State" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ClienteTest" />
+      <option name="METHOD_NAME" value="deveNormalizarBloqueado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest.deveNormalizarEsperandoPagamento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="State" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ClienteTest" />
+      <option name="METHOD_NAME" value="deveNormalizarEsperandoPagamento" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest.deveNormalizarMensalidadeAtrasada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="State" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ClienteTest" />
+      <option name="METHOD_NAME" value="deveNormalizarMensalidadeAtrasada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteTest.deveBloquearMensalidadeAtrasada" />
+        <item itemvalue="JUnit.ClienteTest.deveNormalizarMensalidadeAtrasada" />
+        <item itemvalue="JUnit.ClienteTest.deveBloquearEsperandoPagamento" />
+        <item itemvalue="JUnit.ClienteTest.deveNormalizarEsperandoPagamento" />
+        <item itemvalue="JUnit.ClienteTest.deveNormalizarBloqueado" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe4a91f-6291-4290-ae5a-918bf019c994" name="Changes" comment="" />
+      <created>1671571548011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671571548011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
